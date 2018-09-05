@@ -5,7 +5,7 @@ Copia más abajo tus programas, cada uno en su parte del reto.
 
 ## Actividad 1: 4 Píxeles Rojos
 ```
-21 FF 00 22 00 C0 18 FE
+21 FF FF 22 00 C0 18 FE
 
 ```
 PC: 4000
@@ -17,8 +17,7 @@ PC: 4000
 PC: 4000
 
 ## Actividad 3: (C) 12 Píxeles en grupos de 2 del mismo color
-```
-21 FF FF 22 00 C0 21 F0 F0 22 02 C0 21 F0 F0 22 04 C0 21 FF FF 22 06 C0 18 FE
+```3E FF 32 00 C0 3E F0 32 01 C0 3E 0F 32 02 C0 3E F0 32 03 C0 3E 0F 32 04 C0 3E FF 32 05 C0 18 FE
 ```
 PC: 4000
 
