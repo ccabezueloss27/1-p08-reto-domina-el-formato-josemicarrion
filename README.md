@@ -23,7 +23,7 @@ PC: 4000
 
 ## Actividad 4: (C) 8 Píxeles, de colores distintos
 ```
-21 C5 5C 22 00 C0 18 FE
+3E 6D 32 00 C0 3E E5 32 01 C0 18 FE
 ```
 PC: 4000
 ## Actividad 5: (CC) Patrón libre de color de al menos 80 píxeles
